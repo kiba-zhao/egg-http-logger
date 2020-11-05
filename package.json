@@ -1,0 +1,11 @@
+{
+  "name": "egg-http-logger",
+  "version": "0.1.0",
+  "description": "http log plugin for eggjs",
+  "eggPlugin": {
+    "name": "httpLogger"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.9"
+  }
+}

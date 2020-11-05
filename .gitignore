@@ -1,0 +1,26 @@
+logs/
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+yarn.lock
+coverage/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+typings/
+.nyc_output/
+
+# vscode
+.vscode
+
+# emacs temp
+*~
+*#
+.tern-port
+*.#*
+
+# local_env_build
+local_env_build/data
